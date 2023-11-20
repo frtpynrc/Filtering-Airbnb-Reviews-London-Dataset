@@ -16,5 +16,5 @@ The original dataset includes reviews with the following columns:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your_username/Filtering-Airbnb-Reviews-London-Dataset.git
+   git clone https://github.com/frtpynrc/Filtering-Airbnb-Reviews-London-Dataset.git
    cd Filtering-Airbnb-Reviews-London-Dataset
